@@ -13,6 +13,7 @@ Proyecto de práctica (práctica 1) del curso Ingeniería de Software — Bioing
 gestion_pacientes/   # Configuración del proyecto Django (settings, urls, wsgi/asgi)
 pacientes/           # App de Django: modelos, vistas, urls, templates para gestión de pacientes.
 devices/             # App de Django: modelos, vistas, urls, templates para gestión de equipo biomédicos. equipo, marca, serial
+labs/                # App de Django: modelos, vistas, urls, templates para las gestión de prueba de laboratorio. Las variabels a almacenar son: Cod_cups, descripción_cups, rango.
 manage.py            # CLI de administración de Django
 requirements.txt     # Dependencias del proyecto
 ```
